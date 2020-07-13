@@ -1,3 +1,7 @@
+---
+title: People
+---
+
 ## People
 Members of the graduate student leadership committee.
 
