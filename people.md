@@ -1,11 +1,12 @@
 ## People
 Members of the graduate student leadership committee.
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|![Profile picture of Owen Chapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK)|   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   |   |   |   |
+|---|---|---|---|
+|![Profile picture of Owen Chapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK)||   |   |
+|*Owen Chapman, President*|*Emily Kobayashi, Director of Community Events*|*Clarence Mah, Director of Onboarding*|*Daniela Nachmanson, Director of Student Wellness*|
+|   |   |   |   |
+|   |   |   |   |
 
 ### Officers
 * Owen Chapman, President
