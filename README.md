@@ -9,3 +9,6 @@ Email: [gbic-ucsd@googlegroups.com](mailto:gbic-ucsd@googlegroups.com)
 
 ## People
 To learn about the people who make GBIC run, see the page about our [people](people.md)
+
+## Newsletters
+To stay in touch with current events happening at GBIC, see our [newletters](newsletter.md)
