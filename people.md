@@ -3,7 +3,7 @@ Members of the graduate student leadership committee.
 
 |   |   |   |   |
 |---|---|---|---|
-|![Profile picture of Owen Chapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK =250x250)|![Profile picture of Owen Chapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK =250x250)|![Profile picture of Owen Chapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK =250x250)|![Profile picture of Owen Chapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK =250x250)|
+|<img src="https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman" width="100" height="100">|<img src="https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman" width="100" height="100">|<img src="https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman" width="100" height="100">|<img src="https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman" width="100" height="100">|
 |*Owen Chapman, President*|*Emily Kobayashi, Director of Community Events*|*Clarence Mah, Director of Onboarding*|*Daniela Nachmanson, Director of Student Wellness*|
 |   |   |   |   |
 |   |   |   |   |
