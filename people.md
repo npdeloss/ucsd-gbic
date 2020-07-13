@@ -1,4 +1,5 @@
 ## People
+Members of the graduate student leadership committee.
 
 ### Officers
 * Owen Chapman, President
