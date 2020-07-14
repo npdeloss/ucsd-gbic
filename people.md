@@ -4,7 +4,7 @@ title: People
 
 Members of the graduate student leadership committee.
 
-* ![OwenChapman](gallery/ochapman.jpg){:height="700px" width="400px"}
+* ![OwenChapman](gallery/ochapman.jpg)
 *President*
 
 ### Officers
