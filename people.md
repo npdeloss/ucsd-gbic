@@ -2,7 +2,6 @@
 title: People
 ---
 
-## People
 Members of the graduate student leadership committee.
 
 * ![OwenChapman](gallery/ochapman.jpg)
@@ -37,8 +36,3 @@ Members of the graduate student leadership committee.
 * Jennifer Havens
 * Jessica Zhou
 
-<script src="./md-gallery.js"></script>
-
-<script>
-    md_gallery();
-</script>
