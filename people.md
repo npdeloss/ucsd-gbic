@@ -4,13 +4,13 @@ title: People
 
 Members of the graduate student leadership committee.
 
-* ![OwenChapman](gallery/ochapman.jpg){: width=150 height=100 style="float:right; padding:16px"}
+* ![OwenChapman](gallery/ochapman.jpg)
 *President*
-* ![EmilyKobayashi](gallery/ochapman.jpg =150x100)
+* ![EmilyKobayashi](gallery/ochapman.jpg)
 *Directory of Community Events*
-* ![ClarenceMah](gallery/ochapman.jpg =150x100)
+* ![ClarenceMah](gallery/ochapman.jpg)
 *Director of Onboarding*
-* ![DanielaNachmanson](gallery/ochapman.jpg =150x100)
+* ![DanielaNachmanson](gallery/ochapman.jpg)
 *Director of Student Wellness*
 
 ### Officers
