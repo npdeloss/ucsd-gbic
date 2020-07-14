@@ -37,4 +37,3 @@ Members of the graduate student leadership committee.
 * Jennifer Havens
 * Jessica Zhou
 
-<script src="path/to/md-gallery.js"></script>
