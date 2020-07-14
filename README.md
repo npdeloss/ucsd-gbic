@@ -1,6 +1,6 @@
 ## Graduate Bioinformatics Council (GBIC)
 
-The GBIC (Graduate Bioinformatics Council at UCSD) is a non-profit graduate student-run organization for students of the [Bioinformatics and Systems Biology PhD program at UCSD](https://bioinformatics.ucsd.edu/).
+We are a non-profit graduate student-run organization for students of the [Bioinformatics and Systems Biology / Biomedical Informatics PhD program at UCSD](https://bioinformatics.ucsd.edu/) with the goal of ....
 
 Email: [gbic-ucsd@googlegroups.com](mailto:gbic-ucsd@googlegroups.com)
 
