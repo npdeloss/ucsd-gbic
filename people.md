@@ -5,13 +5,13 @@ title: People
 ## People
 Members of the graduate student leadership committee.
 
-* [OwenChapman](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman)
+* [OwenChapman](ochapman.jpg)
 *President*
-* [EmilyKobayashi](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman)
+* [EmilyKobayashi](ochapman.jpg)
 *Directory of Community Events*
-* [ClarenceMah](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman)
+* [ClarenceMah](ochapman.jpg)
 *Director of Onboarding*
-* [DanielaNachmanson](https://bioinformatics.ucsd.edu/sites/www-bioinfo.ucsd.edu/files/styles/small/public/people/ochapman.jpg?itok=pe66ZTlK" alt="Profile picture of Owen Chapman)
+* [DanielaNachmanson](ochapman.jpg)
 *Director of Student Wellness*
 
 ### Officers
