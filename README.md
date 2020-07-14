@@ -4,8 +4,8 @@ The GBIC (Graduate Bioinformatics Council at UCSD) is a non-profit graduate stud
 
 Email: [gbic-ucsd@googlegroups.com](mailto:gbic-ucsd@googlegroups.com)
 
-## People
-To learn about the people who make GBIC run, see the page about our [people](people.md)
+<!-- ## People -->
+<!-- To learn about the people who make GBIC run, see the page about our [people](people.md) -->
 
 ## Calendar of Upcoming events
 <iframe src="https://calendar.google.com/calendar/embed?src=nfoa240fqk90jajs689ibo2u7o%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
