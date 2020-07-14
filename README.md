@@ -1,6 +1,4 @@
-# Welcome!
-
-## Graduate Bioinformatics Council (GBIC)
+# Graduate Bioinformatics Council (GBIC)
 
 We are a non-profit graduate student-run organization for students of the [Bioinformatics and Systems Biology / Biomedical Informatics PhD program at UCSD](https://bioinformatics.ucsd.edu/) with the goal of ....
 
