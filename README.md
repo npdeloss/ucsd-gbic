@@ -1,6 +1,3 @@
----
-title: Graduate Bioinformatics Council (GBIC)
----
 
 ## About us
 
