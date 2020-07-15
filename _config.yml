@@ -1,7 +1,7 @@
 theme: minima
 header_pages:
   - people.md
-  - newsletter.md
+  - outreach.md
   - studentwellness.md
   - calendar.md
 
