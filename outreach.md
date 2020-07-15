@@ -2,7 +2,7 @@
 title: "Outreach"
 ---
 
-## Outreach and Mentoring Opportunities
+## Opportunities
 
 ## Newsletter
 
