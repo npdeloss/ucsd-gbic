@@ -2,5 +2,6 @@ theme: minima
 header_pages:
   - people.md
   - newsletter.md
+  - studentwellness.md
   - calendar.md
 
