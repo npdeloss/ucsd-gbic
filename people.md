@@ -157,12 +157,6 @@ Members of the graduate student leadership committee.
 
 </div>
 
-### Officers
-* Owen Chapman, President
-* Emily Kobayashi, Director of Community Events
-* Clarence Mah, Director of Onboarding
-* Daniela Nachmanson, Director of Student Wellness
-
 ### Student Representatives
 * Owen Chapman
 * Anh Pham
