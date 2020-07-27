@@ -1,5 +1,5 @@
 ---
-title: Meet our board!
+title: Meet the board
 ---
 <style>
 /* Gallery Style */
