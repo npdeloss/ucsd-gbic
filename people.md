@@ -106,20 +106,20 @@ Members of the graduate student leadership committee.
 <div class="member-item">
 <div class="member-img-wrapper">
     <div class="member-img">
-        <img src="members/ochapman.jpg">
+        <img src="gallery/ochapman.jpg">
     </div>
     <div class="img-subtitle">
         <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
     </div>
 </div>
 <div class="member-name">Owen Chapman</div>
-<div class="member-position">Captain America</div>
+<div class="member-position">President</div>
 </div>
 
 <div class="member-item">
 <div class="member-img-wrapper">
     <div class="member-img">
-        <img src="members/ochapman.jpg">
+        <img src="gallery/ekobayashi.jpg">
     </div>
     <div class="img-subtitle">
         <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
@@ -132,7 +132,7 @@ Members of the graduate student leadership committee.
 <div class="member-item">
 <div class="member-img-wrapper">
     <div class="member-img">
-        <img src="members/ochapman.jpg">
+        <img src="gallery/cmah.jpg">
     </div>
     <div class="img-subtitle">
         <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
@@ -145,7 +145,7 @@ Members of the graduate student leadership committee.
 <div class="member-item">
 <div class="member-img-wrapper">
     <div class="member-img">
-        <img src="members/ochapman.jpg">
+        <img src="gallery/dnachmanson.jpg">
     </div>
     <div class="img-subtitle">
         <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
