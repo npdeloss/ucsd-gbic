@@ -2,7 +2,7 @@
 title: People
 ---
 <style>
-    /* Gallery Style */
+/* Gallery Style */
 
 .member-items-wrapper{
     display: grid;
