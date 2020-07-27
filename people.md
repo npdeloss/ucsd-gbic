@@ -1,5 +1,5 @@
 ---
-title: Meet the board
+title: People
 ---
 <style>
 /* Gallery Style */
