@@ -4,10 +4,6 @@ title: People
 
 Members of the graduate student leadership committee.
 
-![OwenChapman](gallery/ochapman.jpg) | ![OwenChapman](gallery/ochapman.jpg) | ![OwenChapman](gallery/ochapman.jpg)
--- | -- | --
-![OwenChapman](gallery/ochapman.jpg) | ![OwenChapman](gallery/ochapman.jpg) | ![OwenChapman](gallery/ochapman.jpg)
-
 <div class="content-wrapper">
             <div class="two-row-wrapper">
                 <div class="header">
