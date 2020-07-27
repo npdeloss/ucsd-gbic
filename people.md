@@ -8,6 +8,71 @@ Members of the graduate student leadership committee.
 -- | -- | --
 ![OwenChapman](gallery/ochapman.jpg) | ![OwenChapman](gallery/ochapman.jpg) | ![OwenChapman](gallery/ochapman.jpg)
 
+<div class="content-wrapper">
+            <div class="two-row-wrapper">
+                <div class="header">
+                    <h1>Meet our board</h1>
+                    <p>We do our best</p>
+                </div>
+
+                <div class="member-items-wrapper">
+
+                    <div class="member-item">
+                        <div class="member-img-wrapper">
+                            <div class="member-img">
+                                <img src="members/ochapman.jpg">
+                            </div>
+                            <div class="img-subtitle">
+                                <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
+                            </div>
+                        </div>
+                        <div class="member-name">Owen Chapman</div>
+                        <div class="member-position">Captain America</div>
+                    </div>
+
+                    <div class="member-item">
+                        <div class="member-img-wrapper">
+                            <div class="member-img">
+                                <img src="members/ochapman.jpg">
+                            </div>
+                            <div class="img-subtitle">
+                                <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
+                            </div>
+                        </div>
+                        <div class="member-name">Emily Kobayashi</div>
+                        <div class="member-position">Director of Community Events</div>
+                    </div>
+
+                    <div class="member-item">
+                        <div class="member-img-wrapper">
+                            <div class="member-img">
+                                <img src="members/ochapman.jpg">
+                            </div>
+                            <div class="img-subtitle">
+                                <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
+                            </div>
+                        </div>
+                        <div class="member-name">Clarence Mah</div>
+                        <div class="member-position">Director of Onboarding</div>
+                    </div>
+
+                    <div class="member-item">
+                        <div class="member-img-wrapper">
+                            <div class="member-img">
+                                <img src="members/ochapman.jpg">
+                            </div>
+                            <div class="img-subtitle">
+                                <a href="mailto:jpnguyen@eng.ucsd.edu">Position Description</a>
+                            </div>
+                        </div>
+                        <div class="member-name">Daniela Nachmanson</div>
+                        <div class="member-position">Director of Student Wellness</div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
 
 ### Officers
 * Owen Chapman, President
